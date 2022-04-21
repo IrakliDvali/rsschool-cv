@@ -18,11 +18,11 @@ function GreetUser(name)
     console.log("Hello, " + name);
 }
 ```
- ## Experience
+ # Experience
  - No experience
  - No production experience
  
- ## Education
+ # Education
  - Udemy courses
  - Freecodecamp cource
  - codehs

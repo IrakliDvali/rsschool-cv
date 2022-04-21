@@ -1,1 +1,1 @@
-# rsschool-cv
+https://iraklidvali.github.io/rsschool-cv/cv
